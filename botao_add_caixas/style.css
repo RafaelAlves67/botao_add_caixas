@@ -1,0 +1,9 @@
+.caixa{
+    width: 150px;
+    height: 100px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
